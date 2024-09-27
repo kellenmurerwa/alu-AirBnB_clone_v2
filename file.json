@@ -1,0 +1,16 @@
+{
+    "State.6ad53672-672a-4367-9d7c-85f6a6bedd5b": {
+        "name": "Madison",
+        "id": "6ad53672-672a-4367-9d7c-85f6a6bedd5b",
+        "created_at": "2024-09-27T22:55:32.991246",
+        "updated_at": "2024-09-27T22:55:32.991246",
+        "__class__": "State"
+    },
+    "State.fa9a262c-f6db-4f91-8ad7-3d9b403acdf8": {
+        "name": "Okholama",
+        "id": "fa9a262c-f6db-4f91-8ad7-3d9b403acdf8",
+        "created_at": "2024-09-27T22:58:42.839617",
+        "updated_at": "2024-09-27T22:58:42.839617",
+        "__class__": "State"
+    }
+}
