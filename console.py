@@ -305,6 +305,7 @@ class HBNBCommand(cmd.Cmd):
             if not att_val and args[2]:
                 att_val = args[2].partition(' ')[0]
 
+
             args = [att_name, att_val]
 
         # retrieve dictionary of current objects
