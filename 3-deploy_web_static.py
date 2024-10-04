@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Fabric script that creates and distributes archive to the web servers 
+Fabric script that creates and distributes archive to the web server
 using: fab -f 3-deploy_web_static.py deploy -i ~/.ssh/id_rsa -u ubuntu
 """
 
